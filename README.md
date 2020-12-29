@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Check my Github Gists here: https://gist.github.com/le-dawg
+This is the most recent one, in gist.io rendering: https://gist.io/@le-dawg/32960d2df31ca219a2f98b8c95b7be89
+
 🌍 &nbsp; You can find me elsewhere ATM: 
 <!--- Sharing what I learn at [Nucks.co](https://nucks.co) ✍️  -->
 - Posting updates on [LinkedIn](https://linkedin.com/in/dhoracy) 🏆  
