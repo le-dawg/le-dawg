@@ -10,8 +10,8 @@
 🌍 &nbsp; You can find me elsewhere ATM: 
 <!--- Sharing what I learn at [Nucks.co](https://nucks.co) ✍️  -->
 - Posting updates on [LinkedIn](https://linkedin.com/in/dhoracy) 🏆  
-- Often interacting, rarely ranting or storming on [Twitter](https://twitter.com/https://twitter.com/0xdawg_) or [Twitter](https://twitter.com/https://twitter.com/d8adawg) ©  
-- Project tweets: 
+- Often interacting, rarely ranting or storming on [Twitter](https://twitter.com/https://twitter.com/dawgctor) or [Twitter](https://twitter.com/https://twitter.com/d8adawg) ©
+- Follow these business accounts: @natixnetwork , @tecmns 
 
 <!--
 
