@@ -13,6 +13,10 @@
 - Often interacting, rarely ranting or storming on [Twitter](https://twitter.com/https://twitter.com/dawgctor) or [Twitter](https://twitter.com/https://twitter.com/d8adawg) ©
 - Follow these business accounts: @natixnetwork , @tecmns 
 
+### Current work
+#### Personal AI Tooling you can fork
+- [pai-rapidresponse-skills](https://github.com/le-dawg/pai-rapidresponse-skills): when you need to use a foreign machine but rely on your personal ai skills: use the rapidresponse to get them set up quickly
+
 <!--
 
 
