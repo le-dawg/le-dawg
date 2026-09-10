@@ -1,21 +1,21 @@
 ### Hi there 👋
 
 - Check my Github Gists here: https://gist.github.com/le-dawg
-- I think these are useful enough to be indexed by google, in gist.io rendering: 
+- I think these are useful enough to be indexed:
   - https://gist.io/@le-dawg/32960d2df31ca219a2f98b8c95b7be89
   - https://gist.io/@le-dawg/dc3ad627c51e4d2684eea63f011e69e4
 - Math Study guides [WIP]
   - Numerical mathematics https://gist.github.com/le-dawg/dc365fda06846571d60a1e825d423c66
 
-🌍 &nbsp; You can find me elsewhere ATM: 
-<!--- Sharing what I learn at [Nucks.co](https://nucks.co) ✍️  -->
-- Posting updates on [LinkedIn](https://linkedin.com/in/dhoracy) 🏆  
-- Often interacting, rarely ranting or storming on [Twitter](https://twitter.com/https://twitter.com/dawgctor) or [Twitter](https://twitter.com/https://twitter.com/d8adawg) ©
-- Follow these business accounts: @natixnetwork , @tecmns 
+🌍 &nbsp; You can find me: 
+- [On Pause] Posting updates on [LinkedIn](https://linkedin.com/in/dhoracy)
+- [On Pause] Interacting, sometimes ranting on [Twitter](https://twitter.com/https://twitter.com/dawgctor) or [Twitter](https://twitter.com/https://twitter.com/d8adawg)
 
-### Current work
+
+### Useful Work
 #### Personal AI Tooling you can fork
 - [pai-rapidresponse-skills](https://github.com/le-dawg/pai-rapidresponse-skills): when you need to use a foreign machine but rely on your personal ai skills: use the rapidresponse to get them set up quickly
+- [Blackhole](https://github.com/le-dawg/Blackhole): the popular Pi-Hole Network-level ads removing solution, now packaged as a container app to run 24/7 on your machine. Energy-optimized for Apple Silicon!
 
 <!--
 
