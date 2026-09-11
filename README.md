@@ -12,10 +12,12 @@
 - [On Pause] Interacting, sometimes ranting on [Twitter](https://twitter.com/https://twitter.com/dawgctor) or [Twitter](https://twitter.com/https://twitter.com/d8adawg)
 
 
-### Useful Work
-#### Personal AI Tooling you can fork
+### Make life easier with my tools
+#### AI Tooling
 - [pai-rapidresponse-skills](https://github.com/le-dawg/pai-rapidresponse-skills): when you need to use a foreign machine but rely on your personal ai skills: use the rapidresponse to get them set up quickly
-- [Blackhole](https://github.com/le-dawg/Blackhole): the popular Pi-Hole Network-level ads removing solution, now packaged as a container app to run 24/7 on your machine. Energy-optimized for Apple Silicon!
+- [workflowbench](https://github.com/le-dawg/workflowbench): Local-first visual editor for designing, testing, and iterating on agentic AI workflow specifications — framework-agnostic.
+#### Quality-of-life Tooling
+- [Blackhole](https://github.com/le-dawg/Blackhole): the popular Pi-Hole network-level ads removing solution, now packaged as a container app to run 24/7 on your machine. Energy-optimized for Apple Silicon!
 
 <!--
 
